@@ -1,0 +1,11 @@
+.landingPage {
+  margin-top: 12px;
+  text-align: center;
+}
+
+.placeholder {
+  background-color: grey;
+  margin: 5px;
+  width: 150px;
+  height: 16px;
+}
